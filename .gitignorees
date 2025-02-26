@@ -1,0 +1,6 @@
+# Ignore system files
+*.log
+.DS_Store
+
+# Ignore Docker-related files
+docker-compose.override.yml
